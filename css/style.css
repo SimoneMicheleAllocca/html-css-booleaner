@@ -2,4 +2,33 @@
 .logo{
     background-image: url(../img/pattern.png);
     background-color: lightblue;
+    width: auto;
+    height:30%;
+
 }
+
+/* Main */
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight:800;
+}
+
+.sottotitolo{
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+    font-size: small;
+}
+
+.link{
+    color: aqua;
+}
+
+.foto{
+    font-size: small;
+}
+
+.testo{
+    font-weight: 600;
+}
+
