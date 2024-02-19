@@ -2,9 +2,13 @@
 .logo{
     background-image: url(../img/pattern.png);
     background-color: lightblue;
-    width: auto;
-    height:30%;
-
+    background-position: left;
+    background-size:contain;
+    width: 50%;
+    height: 50%;
+}
+.immagine{
+   
 }
 
 /* Main */
@@ -47,5 +51,32 @@ thead{
 
 .azzurro{
     background-color: rgb(60, 213, 251);
+}
+
+.foot{
+    color: gray;
+    font-weight: 600;
+}
+
+.ultime-foto{
+    width:500px;
+}
+
+.uno{
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 250px;
+}
+
+.due{
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 250px;
+}
+
+.ultimo-testo{
+    color: white;
+    font-size: medium;
+    font-weight: 800;
 }
 
